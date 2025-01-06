@@ -73,3 +73,6 @@ public class CalculatorTest {
     }
 }
 ```
+
+# Result
+![2025-01-06_08-37.png](img/2025-01-06_08-37.png)
