@@ -38,44 +38,11 @@ Write test cases for the Calculator class using JUnit. Ensure you cover:
 3. Error handling
 
 Sample Test Class Skeleton
-```java
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
 
-public class CalculatorTest {
+# Answer
 
-    private Calculator calculator = new Calculator();
-
-    @Test
-    public void testAdd() {
-        // Your test code here
-    }
-
-    @Test
-    public void testSubtract() {
-        // Your test code here
-    }
-
-    @Test
-    public void testMultiply() {
-        // Your test code here
-    }
-
-    @Test
-    public void testDivide() {
-        // Your test code here
-    }
-
-    @Test
-    public void testDivideByZero() {
-        // Your test code here
-    }
-}
-```
+[source link](src/test/java/CalculatorTest.java).
 
 # Result
-
-[SRC LINK](src/test/java/CalculatorTest.java)
 
 ![2025-01-06_08-37.png](img/2025-01-06_08-37.png)
